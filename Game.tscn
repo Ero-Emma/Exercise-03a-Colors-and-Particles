@@ -18,10 +18,10 @@ font_data = ExtResource( 16 )
 [node name="Game" type="Node2D"]
 
 [node name="Background" type="ColorRect" parent="."]
-margin_left = -200.0
-margin_top = -200.0
-margin_right = 1275.0
-margin_bottom = 968.0
+margin_left = -194.343
+margin_top = -272.125
+margin_right = 1280.66
+margin_bottom = 895.875
 color = Color( 0, 0, 0, 1 )
 script = ExtResource( 6 )
 __meta__ = {
